@@ -1,6 +1,8 @@
 baseURL: https://TaydenWhite.github.io/docsy-site
 title: Goldydocs
 
+sectionPagesMenu: main
+
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
