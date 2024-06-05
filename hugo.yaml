@@ -1,14 +1,6 @@
 baseURL: https://TaydenWhite.github.io/docsy-site
 title: Goldydocs
 
-menu:
-  main:
-    - name: GitHub
-      weight: 50
-      url: 'https://taydenwhite.github.io/docsy-site/'
-      pre: <i class='fa-brands fa-github'></i>
-      post: <span class='alert'>New!</span>
-
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
